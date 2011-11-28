@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Jquery::Lionbars::VERSION
   s.authors     = ["Allen Wei"]
   s.email       = ["digruby@gmail.com"]
-  s.homepage    = "http://www.nikolaydyankov.com/lionbars/"
+  s.homepage    = "https://github.com/allenwei/jquery-lionbars"
   s.summary     = %q{http://www.nikolaydyankov.com/lionbars}
   s.description = %q{http://www.nikolaydyankov.com/lionbars}
 
